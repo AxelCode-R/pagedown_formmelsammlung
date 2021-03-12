@@ -1,0 +1,12 @@
+name: pagedown_thesis
+title: pagedown_thesis
+username:
+account: acrocode
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3769385
+bundleId: 4336010
+url: https://acrocode.shinyapps.io/pagedown_thesis/
+when: 1615560388.35617
+asMultiple: FALSE
+asStatic: FALSE
